@@ -15,13 +15,13 @@ SpringBoost CLI is a powerful command-line tool designed to accelerate the proce
 1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
 
     ```sh
-    git clone https://github.com/yourusername/SpringBoostCLI.git
+    git clone https://github.com/semihBiygit/spring-boost-cli.git
     ```
 
 2. **Navigate to the Project Directory**: Change into the project directory:
 
     ```sh
-    cd SpringBoostCLI
+    cd spring-boost-cli
     ```
 
 3. **Build the Project**: Use Maven to build the project and create the executable JAR file:
@@ -53,3 +53,19 @@ Generate a Spring Boot project with MySQL database configuration:
 
 ```sh
 java -jar target/SpringBoost-0.0.1.jar --projectName=myProject --packageName=com.example --dbType=mysql
+```
+
+## Dependencies
+
+- Spring Boot: 2.4.2
+- Spring Boot Starter Data JPA
+- Spring Boot Starter Web
+- Other dependencies based on the selected database type.
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/semihBiygit/spring-boost-cli/issues) or [submit a pull request](https://github.com/semihBiygit/spring-boost-cli/pulls).
+
+## License
+
+This project is licensed under the [MIT License]
