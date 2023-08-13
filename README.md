@@ -7,7 +7,7 @@ SpringBoost CLI is a powerful command-line tool designed to accelerate the proce
 - Quickly generate the base code for your Spring Boot projects.
 - Easily configure database settings for MySQL, H2, PostgreSQL, and MSSQL.
 - Efficiently create models, repositories, services, and controllers with just one command.
-- Seamless integration with popular Java build tools like Maven and Gradle.
+- Seamless integration with popular Java build tool Maven.
 - User-friendly command-line interface using the Picocli library.
 
 ## Getting Started
@@ -66,6 +66,3 @@ java -jar target/SpringBoost-0.0.1.jar --projectName=myProject --packageName=com
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/semihBiygit/spring-boost-cli/issues) or [submit a pull request](https://github.com/semihBiygit/spring-boost-cli/pulls).
 
-## License
-
-This project is licensed under the [MIT License]
